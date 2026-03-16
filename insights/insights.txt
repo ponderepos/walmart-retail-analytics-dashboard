@@ -1,0 +1,91 @@
+# Key Business Insights
+
+This document highlights the major insights derived from the Walmart Sales and Inventory Analytics Dashboard.
+
+---
+
+# 1. Revenue Performance
+
+Total sales revenue reached approximately **1.10 billion**, indicating strong overall business performance.
+
+The gross profit of **104.47 million** shows a stable profit margin across product categories.
+
+---
+
+# 2. Product Revenue Leaders
+
+The dashboard highlights several top-performing products:
+
+* iPhone
+* Laptop i7
+* Laptop i5
+* Android Phones
+
+These products generate the highest revenue and represent key drivers of business growth.
+
+---
+
+# 3. Regional Sales Distribution
+
+Sales performance is distributed across four major regions:
+
+* East
+* West
+* North
+* South
+
+All regions contribute relatively balanced sales volumes, indicating a well-distributed market presence.
+
+---
+
+# 4. Year-over-Year Revenue Growth
+
+Revenue shows positive growth from **2023 to 2025**, with an increase of approximately **7.63% in 2024** and **5.09% in 2025**.
+
+However, a significant decline appears in **2026**, indicating potential demand fluctuations or inventory changes.
+
+---
+
+# 5. Category Contribution
+
+Electronics contributes the highest share of total revenue compared to:
+
+* Home & Kitchen
+* Fashion
+* Grocery
+
+This indicates strong consumer demand for electronic products.
+
+---
+
+# 6. Inventory Performance
+
+The inventory dashboard shows:
+
+* Opening Inventory: 926K
+* Units Purchased: 178K
+* Units Sold: 141K
+* Closing Inventory: 963K
+
+This indicates a stable inventory supply supporting ongoing sales demand.
+
+---
+
+# 7. High Volume Cities
+
+The cities with the highest sales volume include:
+
+* Kolkata
+* Mumbai
+* Delhi
+* Hyderabad
+
+These locations represent key markets for retail sales growth.
+
+---
+
+# Conclusion
+
+The Walmart Sales and Inventory Analytics Dashboard provides a comprehensive view of retail business performance.
+
+By combining sales and inventory insights, the dashboard enables stakeholders to make **better inventory planning decisions, identify revenue drivers, and monitor regional sales trends effectively**.
